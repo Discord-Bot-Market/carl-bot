@@ -11,3 +11,5 @@ Deleted messages are also cleared from the database. Pin the reaction role messa
 
 ### Info:
 ``reactrole``, ``reactionrole``, and ``rr`` are all aliases for the same base command.
+
+**Name**: rr [make|setup]	\n**Example**: !rr make \n**Usage**: Starts the interactive setup to get you started with reaction roles
