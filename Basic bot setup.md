@@ -20,7 +20,7 @@ Reaction roles work best in their own channels, so carlbot offers a command to c
 
 It's recommended that you use ``!rr make`` for this if you are new.
 
-<img src="https://docs.carl.gg/images/reaction_role_setup.png" alt="Me setting up reaction roles in my support server."/>![image](https://user-images.githubusercontent.com/70546159/116559928-243a8680-a8be-11eb-9239-b8eefd10150d.png)
+<img src="https://docs.carl.gg/images/reaction_role_setup.png" alt="Me setting up reaction roles in my support server."/>
 
 ### 4. Setting up modlogs
 
