@@ -31,8 +31,8 @@ Check out the reaction roles page There is an example at the bottom of the page 
 Use the website! at https://carl.gg it's much easier than doing it with commands.
 
 There's a page for a basic set up and then there is also a page for a more in-depth guide that goes over disabling/enabling commands on a granular level.
-https://docs.carl.gg/basic-bot-setup/
-https://docs.carl.gg/config/command-permissions/
+- https://docs.carl.gg/basic-bot-setup/
+- https://docs.carl.gg/config/command-permissions/
 
 # Our Mission
 
