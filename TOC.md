@@ -6,12 +6,14 @@
 
 ### Roles
 
-- [Reaction Roles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#reaction-roles)
-      - [RR Management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-management)
-      - [RR Types](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-types)
-      - [Advanced/niche](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#advancedniche)
-- [Role management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#role-management)
-- [Autoroles and delayed autoroles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/Autoroles%20and%20delayed%20autoroles.md#autoroles-and-delayed-autoroles)
+##### - [Reaction Roles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#reaction-roles)
+- [RR Management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-management)
+- [RR Types](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-types)
+- [Advanced/niche](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#advancedniche)
+
+##### - [Role management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#role-management)
+
+##### - [Autoroles and delayed autoroles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/Autoroles%20and%20delayed%20autoroles.md#autoroles-and-delayed-autoroles)
 
 ### Logging
 
