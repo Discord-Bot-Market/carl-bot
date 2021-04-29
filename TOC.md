@@ -1,8 +1,7 @@
 # Table of Contents
 
-- Home
-https://github.com/Discord-Bot-Market/carl-bot#carl-bot
-- FAQ
+- [Home](https://github.com/Discord-Bot-Market/carl-bot#carl-bot)
+- [FAQ](https://github.com/Discord-Bot-Market/carl-bot/blob/main/FAQ.md#frequently-asked-questions)
 - Basic Bot Setup
 
 ### Roles
