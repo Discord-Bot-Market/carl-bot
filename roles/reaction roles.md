@@ -22,3 +22,8 @@ Deleted messages are also cleared from the database. Pin the reaction role messa
 
 - **Example**: !rr show
 - **Usage**: Shows the emoji-role pairs and their associated message id, useful for rr add. If a message id is specified, it will show additional information about that particular reaction role.
+
+#### rr add [channel] <msg_id> <emoji> <role>	
+
+- **Example**: !rr add 458641514017587210 👼 @pure
+- **Usage**: Adds the emoji-role pair to the message and the database. NOTE: This message id can belong to authors other than Carl-bot, and the same emoji can be used for different messages for different roles (useful for regional roles)
