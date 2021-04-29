@@ -11,11 +11,11 @@ Carl-bot is owned by Bot Labs along with piggy, yagpdb and 6 others. Carl-bot is
 - Support Server: https://carl.gg/discord
 - Status: https://carl.gg/status
 
-**Aliases**: [foo|bar] means that you can use either foo or bar
-**Optional**: [foo] means that this argument can be ignored (this is usually for clearing settings or for using yourself/the current channel)
-**Optional with default**: [foo='muted'] means that it will default to the value if you don't specify anything else
-**Required**: <foo> means that you must use this argument for the command to work
-**Many**: <foos...> or [foos...] means that you can specify more than one. Massban is an example of a command that uses this. If you wish you use an argument with more than one word, use "double quotes" to let the bot you know what you want.
+- **Aliases**: [foo|bar] means that you can use either foo or bar
+- **Optional**: [foo] means that this argument can be ignored (this is usually for clearing settings or for using yourself/the current channel)
+- **Optional with default**: [foo='muted'] means that it will default to the value if you don't specify anything else
+- **Required**: <foo> means that you must use this argument for the command to work
+- **Many**: <foos...> or [foos...] means that you can specify more than one. Massban is an example of a command that uses this. If you wish you use an argument with more than one word, use "double quotes" to let the bot you know what you want.
 
 Additionally, the bot uses what are called converters which makes specifying roles, members, channels etc easy and fool-proof. When asked to specify a member, you can provide it a mention (pinging the person), an id, their name or their nickname. This principle works for every single command where applicable.
 
