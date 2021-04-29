@@ -22,10 +22,12 @@ Carl-bot is owned by Bot Labs along with piggy, yagpdb and 6 others. Carl-bot is
 Additionally, the bot uses what are called converters which makes specifying roles, members, channels etc easy and fool-proof. When asked to specify a member, you can provide it a mention (pinging the person), an id, their name or their nickname. This principle works for every single command where applicable.
 
 **How do I set up reaction roles?**
+
 Check out the reaction roles page There is an example at the bottom of the page of me setting up reaction roles for my bot server that a lot of people seem to find useful.
 > https://docs.carl.gg/roles/reaction-roles/
 
-How do I actually configure the bot?
+**How do I actually configure the bot?**
+
 Use the website! at https://carl.gg it's much easier than doing it with commands.
 
 There's a page for a basic set up and then there is also a page for a more in-depth guide that goes over disabling/enabling commands on a granular level.
