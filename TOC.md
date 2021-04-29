@@ -30,33 +30,33 @@
 
 ### Config
 
-- [Prefixes]()
-- [Managing commands]()
+- [Prefixes](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Config/Prefixes.md#prefixes)
+- [Managing commands](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Config/Managing%20commands.md#managing-commands)
 
 ### Notifications
 
-- [Twitch notifications]()
-- [Youtube notifications]()
+- [Twitch notifications](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Notifications/Twitch%20notifications.md#twitch-notifications)
+- [Youtube notifications](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Notifications/Youtube%20notifications.md#youtube-notifications)
 
 ### Utilities
 
-- [Announcements]()
-- [Reminders/Timers]()
-- [Highlights/pager]()
-- [Suggestions]()
-- [Starboard]()
-- [Information/Polls]()
-- [Embeds]()
-- [The Dump Command]()
+- [Announcements](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Announcements.md#announcements)
+- [Reminders/Timers](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Reminders%20%5C%20Timers.md#reminderstimers)
+- [Highlights/pager](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Highlights%20%5C%20pager.md#highlightspager)
+- [Suggestions](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Suggestions.md#suggestions)
+- [Starboard](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Starboard.md#starboard)
+- [Information/Polls](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Information%20%5C%20Polls.md#informationpolls)
+- [Embeds](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/Embeds.md#embeds)
+- [The Dump Command](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Utilities/The%20Dump%20Command.md#the-dump-command)
 
 ### Premium
 
-- [Music]()
-- [Levels]()
+- [Music](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Premium/Music.md#music)
+- [Levels](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Premium/Levels.md#levels)
 
 ### Fun
 
-- [Animals()
-- [Game Information]()
-- [Miscellaneous]()
-- [Text Transformations]()
+- [Animals](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Fun/Animals.md#animals)
+- [Game Information](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Fun/Game%20Information.md#game-information)
+- [Miscellaneous](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Fun/Miscellaneous.md#miscellaneous)
+- [Text Transformations](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Fun/Text%20Transformations.md#text-transformations)
