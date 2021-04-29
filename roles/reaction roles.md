@@ -158,3 +158,45 @@ Types are per message and change their behavior. Every message has a type which 
 ### Warning
 These commands come in very handy in certain situations, but may cause confusion to people unfamiliar with how Carl-bot's reaction roles work.
 
+#### ``rr move <base_id> <target_id>``
+
+- **Example**: !rr move 458641514017587210 445066811097219082	
+- **Usage**: Moves the reaction roles from one message to another. This works even if the message was purged (using the message id found in !rr show).
+
+#### ``rr aio <channel> <color> <title | description> <emoji> <role>``
+
+- **Example**: !rr aio #reaction eeaaee "hello there | this is a description" :red: hello :purple: there	
+- **Usage**: SEPARATE EACH EMOJI-ROLE PAIR WITH A NEWLINE This is meant for power users who wish to create everything with just one command. The title and description have to be enclosed in double quotes.
+
+#### ``rr aiou <channel> <color> <title | description> <emoji> <role>``
+
+- **Example**: N/A	
+- **Usage**: Works like !rr aio but also marks the message as unique
+
+#### ``rr aiov <channel> <color> <title | description> <emoji> <role>``
+
+- **Example**: N/A	
+- **Usage**: All in one command to create a verification reaction role.
+
+#### ``rr aioi <channel> <color> <title | description> <emoji> <role>``
+
+- **Example**: N/A	
+- **Usage**: All in one command to create an inverse verification reaction role, i.e. one that only removes roles.
+
+#### ``!rr fixforeign <msg_id>``
+
+- **Example**: !rr fixforeign 458641514017587210	
+- **Usage**: Super niche command which can be used to have the bot react to emojis the bot doesn't have access to. One reason you might want to use this is because you want to use google's blob emojis. This command isn't required for these emojis to work, it only makes it so that the bot has its reactions added to the message. YOU HAVE TO REACT TO THE MESSAGE WITH THE EMOJIS YOURSELF BEFORE USING THIS COMMAND
+
+#### ``rr maxroles <msg_id> [<role> <number>...]``
+
+- **Example**: !rr maxroles 458641514017587210 DPS 10	
+- **Usage**: Want to limit the number of x role? With this, you can. NOTE This checks for how many people have the role, not how many reactions there are.
+
+#### ``rr [colour|color] <msg_id> <color>``
+
+- **Example**: !rr color 458641514017587210 #00ee28	
+- **Usage**: Changes the accent color of the specified bot message
+
+The fastest and most reliable unique reaction roles of any bot.
+<img src="https://docs.carl.gg/images/reaction_role_setup.png" alt="Me setting up reaction roles in my support server."/>![image](https://user-images.githubusercontent.com/70546159/116631727-cc7a3a80-a912-11eb-8422-ce947e38d973.png)
