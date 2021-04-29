@@ -199,4 +199,4 @@ These commands come in very handy in certain situations, but may cause confusion
 - **Usage**: Changes the accent color of the specified bot message
 
 The fastest and most reliable unique reaction roles of any bot.
-<img src="https://docs.carl.gg/images/reaction_role_setup.png" alt="Me setting up reaction roles in my support server."/>![image](https://user-images.githubusercontent.com/70546159/116631727-cc7a3a80-a912-11eb-8422-ce947e38d973.png)
+![image](https://user-images.githubusercontent.com/70546159/116631727-cc7a3a80-a912-11eb-8422-ce947e38d973.png)
