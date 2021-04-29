@@ -60,5 +60,3 @@
 - Game Information
 - Miscellaneous
 - Text Transformations
-
-*Tutorials coming soon!*
