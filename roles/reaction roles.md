@@ -97,3 +97,64 @@ Deleted messages are also cleared from the database. Pin the reaction role messa
 
 ### Info:
 Types are per message and change their behavior. Every message has a type which defaults to normal.
+
+#### ``rr unique <msg_id>``
+
+- **Example**: !rr unique 458641514017587210	
+- **Usage**: Marks a message as 'unique' meaning a member can only claim one role from this message at a time, this works per message. Automatically removes the old reactions for you
+
+#### ``rr binding <msg_id>``
+
+- **Example**: !rr binding 458641514017587210	
+- **Usage**: A combination of rr verify and rr unique. Allowing for members to limit people to one choice ever.
+
+#### ``rr link <base_id> <target_id>``
+
+- **Example**: !rr link 458641514017587210 445066811097219082	
+- **Usage**: By linking two or more messages together, only one role from either message can be self-assigned. If you have 30 color roles for instance, linking the two messages together (since the limit is 20/message) allows a smooth, user-friendly experience when picking up roles.
+
+#### ``rr unlink <msg_id>``
+
+- **Example**: !rr unlink 458641514017587210	
+- **Usage**: This breaks apart the entire group created by ``!rr link`` This means if you had three messages linked together, none of them will be after using this command.
+
+#### ``rr verify <msg_id>``
+
+- **Example**: !rr verify 458641514017587210	
+- **Usage**: With this enabled, reactions can only assign roles, not take them away. Additionally the bot automatically removes the reaction after the user reacts. This is useful for servers that want a verification reaction
+
+#### ``rr drop <msg_id>``
+
+- **Example**: !rr drop 458641514017587210	
+- **Usage**: Works sort of like rr verify, except it can only remove roles (and roles are removed when the emoji is added). This can be used for servers that automatically assign a role that you wish to remove.
+
+#### ``rr normal <msg_id>``
+
+- **Example**: !rr normal 458641514017587210	
+- **Usage**: This returns the reaction role message back to a normal reaction role message. Meaning any commands applied to it such as verify or unique will be removed.
+
+#### ``rr temp <msg_id> <time>``
+
+- **Example**: !rr temp 458641514017587210 24h	
+- **Usage**: Patreon only: This allows for roles to be temporarily be assigned to a member and then removed after the designated amount of time.
+
+#### ``rr reversed <msg_id>``
+
+- **Example**: !rr reversed 458641514017587210	
+- **Usage**: Reacting removes roles, unreacting adds roles.
+
+#### ``rr lock <msg_id>``
+
+- **Example**: !rr lock 458641514017587210	
+- **Usage**: Locks the message preventing any roles from being handed out.
+
+#### ``rr limit <msg_id> <limit>``
+
+- **Example**: !rr limit 458641514017587210 5	
+- **Usage**: Limits members to picking up x amount of roles from a message.
+
+## Advanced/niche
+
+### Warning
+These commands come in very handy in certain situations, but may cause confusion to people unfamiliar with how Carl-bot's reaction roles work.
+
