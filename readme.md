@@ -46,7 +46,7 @@ If you become a contributer, you must agree to the following terms.
 - If you get permission before making the contribution, get it proof read my managment before publishing it.
 - Keep everything clean and formal.
 - Use the markdown system to your advantage to make things look pretty.
-- Listen to watch management tells you to do.
+- Listen to what management tells you to do.
 
 If you do not follow those rules, you may risk your permissions being revoked. This will also result in a permanent ban from our discord server if needed.
 
