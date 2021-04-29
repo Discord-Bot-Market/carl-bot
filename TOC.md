@@ -2,7 +2,7 @@
 
 - [Home](https://github.com/Discord-Bot-Market/carl-bot#carl-bot)
 - [FAQ](https://github.com/Discord-Bot-Market/carl-bot/blob/main/FAQ.md#frequently-asked-questions)
-- Basic Bot Setup
+- [Basic Bot Setup](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Basic%20bot%20setup.md#basic-bot-setup)
 
 ### Roles
 
