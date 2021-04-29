@@ -25,7 +25,7 @@
 
 - [Autoresponses (trigger words)](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Tags%20and%20responses/Autoresponses%20(trigger%20words).md#autoresponses-trigger-words)
 - [Tags (custom commands)](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Tags%20and%20responses/Tags%20(custom%20commands).md#tags-custom-commands)
-- [Tags - Advanced usage](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Tags%20and%20responses/Tags%20(custom%20commands).md#tags-custom-commands)
+- [Tags - Advanced usage](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Tags%20and%20responses/Tags%20-%20Advanced%20usage.md#tags---advanced-usage)
 - [Collection of High Quality Tags](https://github.com/Discord-Bot-Market/carl-bot/blob/main/Tags%20and%20responses/Collection%20of%20High%20Quality%20Tags.md#collection-of-high-quality-tags)
 
 ### Config
