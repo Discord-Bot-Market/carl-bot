@@ -52,4 +52,4 @@ If you do not follow those rules, you may risk your permissions being revoked. T
 
 ### Becoming a contributer
 
-If you would like to become a contributer, just contact me through the discord server. You will know who I am since I am the literal owner.
+If you would like to become a contributer, just contact me through the discord server. You will know who I am since I am literally the owner.
