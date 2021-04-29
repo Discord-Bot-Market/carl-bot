@@ -4,7 +4,7 @@
 
 Find more in the [Table of Contents](https://github.com/Discord-Bot-Market/carl-bot/blob/main/TOC.md#table-of-contents)
 
-## How do I create reaction roles?**
+## How do I create reaction roles?
 
 Most people are probably best off using ``!rr make`` simply because it guides you through the process and tries to tell you what went wrong if any. Other ways of doing it includes using ``!rr aio`` which results in the same result as ``!rr make`` but with just a single command, it uses some weird syntax if you are unfamiliar, so I would recommend sticking to !rr make until you are familiar with the bot.
 
