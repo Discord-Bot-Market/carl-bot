@@ -12,7 +12,7 @@ Find more in the [Table of Contents](https://github.com/Discord-Bot-Market/carl-
 - [Patreon](https://www.patreon.com/carlbot)
 - [Trello](https://trello.com/b/Uj8DKydw/carl-bot)
 - [Invite](https://carl.gg/invite)
-- [Support](Server: https://carl.gg/discord)
+- [SupportServer](https://carl.gg/discord)
 - [Status](https://carl.gg/status)
 
 ### Developer Notes
