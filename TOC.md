@@ -6,57 +6,57 @@
 
 ### Roles
 
-- Reaction Roles
-- Role management
-- Autoroles and delayed autoroles
+- [Reaction Roles]()
+- [Role management]()
+- [Autoroles and delayed autoroles]()
 
 ### Logging
 
-- Logging
-- Modlogs
-- Welcome and leave messages
+- [Logging]()
+- [Modlogs]()
+- [Welcome and leave messages]()
 
 ### Moderation
 
-- Moderation
-- Automod
+- [Moderation]()
+- [Automod]()
 
 ### Tags and responses
 
-- Autoresponses (trigger words)
-- Tags (custom commands)
-- Tags - Advanced usage
-- Collection of High Quality Tags
+- [Autoresponses (trigger words)]()
+- [Tags (custom commands)]()
+- [Tags - Advanced usage]()
+- [Collection of High Quality Tags]()
 
 ### Config
 
-- Prefixes
-- Managing commands
+- [Prefixes]()
+- [Managing commands]()
 
 ### Notifications
 
-- Twitch notifications
-- Youtube notifications
+- [Twitch notifications]()
+- [Youtube notifications]()
 
 ### Utilities
 
-- Announcements
-- Reminders/Timers
-- Highlights/pager
-- Suggestions
-- Starboard
-- Information/Polls
-- Embeds
-- The Dump Command
+- [Announcements]()
+- [Reminders/Timers]()
+- [Highlights/pager]()
+- [Suggestions]()
+- [Starboard]()
+- [Information/Polls]()
+- [Embeds]()
+- [The Dump Command]()
 
 ### Premium
 
-- Music
-- Levels
+- [Music]()
+- [Levels]()
 
 ### Fun
 
-- Animals
-- Game Information
-- Miscellaneous
-- Text Transformations
+- [Animals()
+- [Game Information]()
+- [Miscellaneous]()
+- [Text Transformations]()
