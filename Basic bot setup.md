@@ -1,12 +1,12 @@
 # Basic bot setup
 
-### Table of Contents
-
-Find more in the [Table of Contents](https://github.com/Discord-Bot-Market/carl-bot/blob/main/TOC.md#table-of-contents)
-
 **Info:** This is much easier done on the website at https://carl.gg
 
 This guide will cover everything you need to do to get started with everything carlbot offers.
+
+### Table of Contents
+
+Find more in the [Table of Contents](https://github.com/Discord-Bot-Market/carl-bot/blob/main/TOC.md#table-of-contents)
 
 ### 1. Setting up the prefix
 
