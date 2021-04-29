@@ -11,6 +11,8 @@ Carl-bot is owned by Bot Labs along with piggy, yagpdb and 6 others. Carl-bot is
 - Support Server: https://carl.gg/discord
 - Status: https://carl.gg/status
 
+
+
 - **Aliases**: [foo|bar] means that you can use either foo or bar
 - **Optional**: [foo] means that this argument can be ignored (this is usually for clearing settings or for using yourself/the current channel)
 - **Optional with default**: [foo='muted'] means that it will default to the value if you don't specify anything else
