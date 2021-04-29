@@ -27,3 +27,8 @@ Deleted messages are also cleared from the database. Pin the reaction role messa
 
 - **Example**: !rr add 458641514017587210 👼 @pure
 - **Usage**: Adds the emoji-role pair to the message and the database. NOTE: This message id can belong to authors other than Carl-bot, and the same emoji can be used for different messages for different roles (useful for regional roles)
+
+#### ``rr addmany [channel] <msg_id> <emoji role...>``
+
+- **Example**: !rr addmany 458641514017587210 👼 @pure 💩 @fortnite 😁 @league of legends	
+- **Usage**L Works like !rr add except it adds more than one role at a time. SEPARATE EACH EMOJI-ROLE PAIR WITH A NEW LINE USING: Shift+Enter
