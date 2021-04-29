@@ -7,9 +7,9 @@
 ### Roles
 
 - [Reaction Roles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#reaction-roles)
--   [RR Management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-management)
--   [RR Types](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-types)
--   [Advanced/niche](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#advancedniche)
+  - [RR Management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-management)
+  - [RR Types](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#rr-types)
+  - [Advanced/niche](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#advancedniche)
 
 - [Role management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#role-management)
 
