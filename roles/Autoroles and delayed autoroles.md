@@ -41,7 +41,7 @@ If you have autoroles and reassigned roles, the returning member will receive th
 
 ## Delayed Autoroles
 
-#### ``[tr|timedrole]
+#### ``[tr|timedrole]``
 
 - **Example**: !timedrole	
 - **Usage**: Shows the roles being assigned with their delay
