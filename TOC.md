@@ -12,6 +12,9 @@
   - [Advanced/niche](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/reaction%20roles.md#advancedniche)
 
 - [Role management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#role-management)
+  - [Role Commnads](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#role-commands)
+  - [Rank Commands](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#rank-commands)
+  - [Bulk Role Management](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/role%20management.md#bulk-role-management)
 
 - [Autoroles and delayed autoroles](https://github.com/Discord-Bot-Market/carl-bot/blob/main/roles/Autoroles%20and%20delayed%20autoroles.md#autoroles-and-delayed-autoroles)
 
