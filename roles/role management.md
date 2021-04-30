@@ -15,7 +15,8 @@ These commands are for administrators to manage role assignments in their server
 - **Example**: !role @Carl#0001 fortnite pro	
 - **Usage**: Adds/removes a role from the specified member
 
-[![Tutorial](https://img.youtube.com/vi/-Ex0zd0qfj8/2.jpg)](https://www.youtube.com/watch?v=-Ex0zd0qfj8)
+TUTORIAL:
+[![Tutorial](https://img.youtube.com/vi/-Ex0zd0qfj8/1.jpg)](https://www.youtube.com/watch?v=-Ex0zd0qfj8)
 
 #### ``role add <member> <role>``
 
