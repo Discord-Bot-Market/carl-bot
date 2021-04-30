@@ -16,7 +16,8 @@ These commands are for administrators to manage role assignments in their server
 - **Usage**: Adds/removes a role from the specified member
 
 TUTORIAL:
-[![Tutorial](https://lh3.googleusercontent.com/proxy/9_1CYEq4S5_sDiBKAD4F4aHes1gPUcusQucOwVa0TwIj9hgVc3jJ5kb0tTvlrmHy9uOCgow4f0XIn2r9ICXpe-zlm-N3DwJd)](https://www.youtube.com/watch?v=-Ex0zd0qfj8)
+
+[![Tutorial](https://img.youtube.com/vi/-Ex0zd0qfj8/0.jpg)](https://www.youtube.com/watch?v=-Ex0zd0qfj8)
 
 #### ``role add <member> <role>``
 
