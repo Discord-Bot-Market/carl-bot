@@ -20,3 +20,4 @@ The ``!log aio`` command automatically creates a category, fills it with five ch
 #### ``log channel [#channel]``
 - **Example**: !log channel #logs	
 - **Usage**: Sets the default channel where logged events go. Leave empty to clear the channel.
+
